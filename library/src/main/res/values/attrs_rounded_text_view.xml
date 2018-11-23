@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="RoundedTextView">
+        <attr name="add_titleText" format="string" />
+        <attr name="add_titleSize" format="dimension" />
+        <attr name="add_titleColor" format="color" />
+        <attr name="add_backgroundColorValue" format="color" />
+    </declare-styleable>
+</resources>
